@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "tiktok-live-connector": "^1.2.2"
-  }
+  },
+  "name": "tiktok-live-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ceejmangulabnan/tiktok-live-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceejmangulabnan/tiktok-live-chat/issues"
+  },
+  "homepage": "https://github.com/ceejmangulabnan/tiktok-live-chat#readme",
+  "description": ""
 }
